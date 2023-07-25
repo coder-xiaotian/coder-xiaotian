@@ -1,16 +1,38 @@
-### Hi there 👋
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=coder-xiaotian&count_private=true&show_icons=true&hide_border=true" />
 
-<!--
-**775146061/775146061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am xiaotian,
+##### a front-end web developer. 
+##### I love programming, and I wish to create cool products someday.
 
-Here are some ideas to get you started:
+[![E-mail](https://img.shields.io/badge/-775146061@qq.com-FFE01B?style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:775146061@qq.com)
+<!-- [![Blog](https://img.shields.io/badge/-blog.sherry.cf-red?style=for-the-badge&logo=jekyll&logoColor=white)](https://www.github.com/Sherryme) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technologies
+
+#### Front-End
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=original)](#)
+[![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=default)](#)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=TailwindCSS&logoColor=original)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=black)](#)
+
+#### Back-End
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](#)
+
+#### Database
+[![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-red?style=flat-square&logo=MongoDB&logoColor=white)](#)
+
+###### Of course, I am still a beginner at most of the above techniques.
+
+### Software
+[![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
+[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?style=flat-square&logo=visualstudio&logoColor=white)](#)
+[![Blender](https://img.shields.io/badge/-Blender-purple?style=flat-square&logo=Blender&logoColor=white)](#)
