@@ -4,7 +4,7 @@
 ##### a front-end web developer. 
 ##### I love programming, and I wish to create cool products someday.
 
-[![E-mail](https://img.shields.io/badge/-775146061@qq.com-FFE01B?style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:775146061@qq.com)
+[![E-mail](https://img.shields.io/badge/-775146061@qq.com-ccfbf1?style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:775146061@qq.com)
 <!-- [![Blog](https://img.shields.io/badge/-blog.sherry.cf-red?style=for-the-badge&logo=jekyll&logoColor=white)](https://www.github.com/Sherryme) -->
 
 ---
