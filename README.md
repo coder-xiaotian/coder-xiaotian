@@ -13,11 +13,13 @@
 
 #### Front-End
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=original)](#)
-[![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=default)](#)
+[![Vue](https://img.shields.io/badge/-Vue.js-0ea5e9?style=flat-square&logo=vue.js&logoColor=default)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=TailwindCSS&logoColor=original)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=black)](#)
+[![Mui](https://img.shields.io/badge/-Mui-ddd6fe?style=flat-square&logo=mui&logoColor=default)](#)
+[![Antd](https://img.shields.io/badge/-Antd-059669?style=flat-square&logo=antdesign&logoColor=default)](#)
 
 #### Back-End
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
