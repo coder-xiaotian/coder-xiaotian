@@ -13,7 +13,7 @@
 
 #### Front-End
 [![React](https://img.shields.io/badge/-React-358cc0?style=flat-square&logo=React&logoColor=original)](#)
-[![Vue](https://img.shields.io/badge/-Vue.js-0ea5e9?style=flat-square&logo=vue.js&logoColor=default)](#)
+[![Vue](https://img.shields.io/badge/-Vue.js-1400ff?style=flat-square&logo=vue.js&logoColor=default)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=TailwindCSS&logoColor=original)](#)
